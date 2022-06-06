@@ -14,11 +14,11 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Brittany's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi, I am Brittany. I am currently pursuing an AWS Cloud Practioner Certification. 
 
-[✍️ Tell us why you started this challenge]
+I started this challenge as a way to get more konwledge and hands on experience in cloud. 
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
