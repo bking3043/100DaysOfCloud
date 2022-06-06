@@ -20,10 +20,10 @@ Hi, I am Brittany. I am currently pursuing an AWS Cloud Practioner Certification
 
 I started this challenge as a way to get more konwledge and hands on experience in cloud. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I would like to have passed my AWS Cloud Practioner certification and be preparing for my next cloud certification. 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- https://twitter.com/BrittanyK1ng
+- https://www.linkedin.com/in/brittany50king
 
 ## Stepping out the door
 
